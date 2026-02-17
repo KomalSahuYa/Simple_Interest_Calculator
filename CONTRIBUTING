@@ -1,0 +1,19 @@
+# Contributing Guidelines
+
+Thank you for your interest in contributing to this project!  
+We welcome contributions that help improve functionality, documentation, and overall quality.
+
+---
+
+## How to Contribute
+
+### 1. Fork the Repository
+Click the **Fork** button at the top right of this repository to create your own copy.
+
+---
+
+### 2. Clone Your Fork
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+cd your-repository-name
